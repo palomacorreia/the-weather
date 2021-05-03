@@ -1,6 +1,7 @@
 # The Weather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+![](https://raw.githubusercontent.com/palomacorreia/the-weather/main/th.png)
 
 ## Development server
 
